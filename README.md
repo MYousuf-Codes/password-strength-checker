@@ -70,5 +70,7 @@ This project is licensed under the MIT License - you are free to use, modify, an
 If you found this project useful, please consider starring ⭐ the repository on GitHub! It helps others discover this tool.
 
 ### 🔗 Contact
+
 📧 Email: yousufhere.dev@gmail.com
+
 💼 LinkedIn: [MYousuf-Codes](https://linkedin.com/in/myousuf-codes)
