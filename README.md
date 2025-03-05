@@ -49,6 +49,19 @@ streamlit run app.py
 │── 📄 requirements.txt       # Required dependencies
 │── 📄 README.md              # Project documentation
 ```
+### 🤝 Contributing
+Contributions and collaborations are highly appreciated! 🚀  
+If you have suggestions for improvements, feel free to fork this repository, create a new branch, and submit a pull request.  
+
+**Steps to contribute:**  
+
+1. **Fork the Repository**  
+2. **Create a New Branch** → `feature-branch`  
+3. **Commit Your Changes** → `git commit -m "Add new feature"`  
+4. **Push to GitHub** → `git push origin feature-branch`  
+5. **Open a Pull Request**  
+
+For major changes, please open an issue first to discuss what you'd like to improve.
 
 ### 📜 License
 This project is licensed under the MIT License - you are free to use, modify, and distribute it.
